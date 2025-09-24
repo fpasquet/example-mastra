@@ -1,0 +1,22 @@
+# Dependencies
+node_modules
+
+# Local env files
+.env
+
+# Build Outputs
+.mastra
+dist
+
+# debug
+.pnpm-debug.log*
+
+# Misc
+.DS_Store
+*.pem
+
+# IDE
+.idea
+
+# Database
+data
